@@ -1,9 +1,10 @@
-"homepage":"https://github.com/Akshay-le/ShopZone-E-CommerceStore.git",
 
 {
   "name": "ecommerce-product-page",
   "version": "1.0.0",
   "private": true,
+  "homepage":"https://github.com/Akshay-le/ShopZone-E-CommerceStore.git",
+
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
